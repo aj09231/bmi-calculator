@@ -1,20 +1,25 @@
+
 body {
   background-color: rgb(226, 101, 195);
   font-family: Arial;
   padding: 20px;
   color: aliceblue;
+  color-scheme: light;
 }
 
 input {
-  color: white;
+  background-color: #ffffff;
+  color: #222222;
   padding: 5px;
   margin: 5px;
+  border: 1px solid #cccccc;
 }
 
 button {
-  color: black;
+  background-color: #ffffff;
+  color: #000000;
   padding: 5px 10px;
   margin: 5px;
-  border-color: aliceblue;
+  border: 1px solid #cccccc;
+  cursor: pointer;
 }
-
